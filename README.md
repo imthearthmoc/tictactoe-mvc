@@ -1,2 +1,2 @@
 # Jogo da Velha - Tic Tac Toe (MVC)
-## Atividade realizada como atividade final de semestre.
+## Atividade proposta como trabalho final na materia de Construção de Aplicações em Ambiente Visual
